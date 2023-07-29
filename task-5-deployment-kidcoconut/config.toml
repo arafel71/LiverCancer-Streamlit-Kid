@@ -1,0 +1,3 @@
+[server]
+
+maxUploadSize = 2000		#--- increased from default 200MB to 2000MB
